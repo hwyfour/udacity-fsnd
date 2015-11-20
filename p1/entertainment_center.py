@@ -13,3 +13,6 @@ toy_story = media.Movie(
 movies = [toy_story]
 
 fresh_tomatoes.open_movies_page(movies)
+
+# If you would like to exceed specifications, add more information about the movies, such as the actors, the release date, trivia, etc. or play around with the HTML and the CSS to redo the format and styling of the page.
+
