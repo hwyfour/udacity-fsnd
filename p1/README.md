@@ -21,8 +21,10 @@ CSV Schema:
 
 There are no requirements.
 
-## Getting the code
+## Getting the code and preparing to run it
 
+    $ git clone git@github.com:hwyfour/udacity-fsnd.git
+    $ cd udacity-fsnd/p1
 
 ## Steps to run
 
